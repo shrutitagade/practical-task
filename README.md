@@ -60,9 +60,6 @@ This project demonstrates a basic MERN (MongoDB, Express, React, Node.js) stack 
 3. Start the React Application:
     bash
     npm run dev
-    
-
-    The React application will run on [http://localhost:3000](http://localhost:3000).
 
  Backend Implementation
 
